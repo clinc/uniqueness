@@ -1,7 +1,7 @@
-# uniqueness
-This repository accompanies the paper "Outlier Detection for Improved Data Quality and Diversity in Dialog Systems" (NAACL 2019)
+# Outlier Detection for Improved Data Quality and Diversity in Dialog Systems 
+This repository accompanies the paper [Outlier Detection for Improved Data Quality and Diversity in Dialog Systems](https://www.aclweb.org/anthology/N19-1051/) (NAACL 2019)
 
-# Citing
+## Citing
 If you find this useful, please cite:
 
 ```
